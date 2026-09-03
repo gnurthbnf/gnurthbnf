@@ -1,4 +1,4 @@
-# 👋 Xin chào, tớ là [Tên của cậu]
+# 👋 Xin chào, tớ là [hieubrainnotfound]
 
 Tớ ứng dụng **Python** như một công cụ hỗ trợ cho học tập và công việc hàng ngày.
 
